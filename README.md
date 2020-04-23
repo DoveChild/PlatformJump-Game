@@ -1,7 +1,11 @@
-# *PLATFORMJUMP* 开发原因
+# *PLATFORMJUMP* 简介  
+A PlatformJump Game made by Unity2D.  
+Move with Joystick and Button.   
+Run in Android.  
+# *PLATFORMJUMP* 开发原因  
 
-想到小姐姐要生日啦，疫情期间又不方便寄礼物，直接发红包又太单薄啦！
-正好最近学了下Unity2D的一些基础，于是便想着写个游戏，通关了领红包，这样就很有心意啦！
+想到小姐姐要生日啦，疫情期间又不方便寄礼物，直接发红包又太单薄啦！  
+正好最近学了下Unity2D的一些基础，于是便想着写个游戏，通关了领红包，这样就很有心意啦！  
 
 # *PLATFORMJUMP* 开发日志  
 ## 4.12  
@@ -65,7 +69,7 @@
 > 正式完成并开源  
 
 # Thanks  
-*教学指导：*M_Studio  
-*美术：*Sunny Land  
-*音频：*Sound FX - Retro Pack、Casual Game BGM#5  
-*左右摇杆：*Joystick Pack  
+*教学指导：* M_Studio  
+*美术：* Sunny Land  
+*音频：* Sound FX - Retro Pack、Casual Game BGM#5  
+*左右摇杆：* Joystick Pack  
